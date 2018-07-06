@@ -23,7 +23,7 @@ public class Practice9DrawPathView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-        System.out.println("测试");
 //        练习内容：使用 canvas.drawPath() 方法画心形
+        System.out.println("测试提交");
     }
 }
